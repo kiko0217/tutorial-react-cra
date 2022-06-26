@@ -6,4 +6,7 @@
     "[javascript]": {
         "editor.tabSize": 2
     },
+    "editor.suggest.showSnippets": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true
 }
